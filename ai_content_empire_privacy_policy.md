@@ -31,5 +31,5 @@ We may periodically update this policy. Revisions will be posted here with an up
 ## 8. Contact Information
 For privacy questions or support:
 - **Developer / Publisher:** Tshiamo Jantjie
-- **Email:** tshiajan@gmail.com
+- **Email:** janairedev@gmail.com
 - **Hosted Privacy Policy:** `https://tshiajan.github.io/ai-content-empire-privacy/`
